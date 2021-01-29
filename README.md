@@ -24,7 +24,8 @@
 - 💬 Ask me about Android development & web dev stuff.
 - 📫 How to reach me: [Twitter - @purveshshende2](https://twitter.com/purveshshende2).
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: I love movies.  Except maybe horror movies.😬
+
 
 
 **Languages and Tools:**  
