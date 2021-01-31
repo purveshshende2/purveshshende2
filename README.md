@@ -10,7 +10,7 @@
   
 <a href="https://github.com/purveshshende2">
   <img align="left" alt="Purvesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>>
+</a>
   <a href="https://dev.to/purveshshende2">
   <img align="left" img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Purvesh Shende's DEV Community Profile"  width="22px">
 </a>
