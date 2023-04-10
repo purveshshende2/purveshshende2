@@ -20,9 +20,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on [dev.to](https://dev.to/purveshshende2)
-- 🤔 I’m looking for help with React
+- 🌱 I’m currently learning DevOps
 - 💬 Ask me about Android development & web dev stuff.
 - 📫 How to reach me: [Twitter - @purveshshende2](https://twitter.com/purveshshende2).
 - 😄 Pronouns: He/His
